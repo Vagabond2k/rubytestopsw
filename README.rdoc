@@ -1,0 +1,10 @@
+== README
+
+Simple application that displays the 11M prefix per country.  
+
+== To Do
+
+Query by prefix or country.
+Move data from hash array to DB.
+
+
